@@ -12,4 +12,4 @@ Winnings: Greatest payout (maximum of the winning rounds), average payout, numbe
 
 Losses: Greatest loss, average loss (ouch), number of losing rounds. 
 
-Any other data the student finds interesting or useful.
+
