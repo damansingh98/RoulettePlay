@@ -1,0 +1,18 @@
+
+Welcome to the Roulette!
+
+Please pick a roulette table of your choice:
+American       European
+
+Type Here: 
+Please enter your minimum and maximum bets: 
+Min. bet ($): Max. bet ($): 
+How many rounds would you like?
+
+Configuration:     Number of rounds: 1000000     Game style     american     Min. bet ($):         5     Max. bet ($):   50000
+
+Result:            Accum. gain:      1581935     Accum. loss:   -1807565     Net (+/-):      -225630 
+
+Winnings:          Greatest payout:    60240     Avg. payout:   105720.8     Win rounds:      309725
+
+Losses:            Greatest loss:   -1757565     Avg. loss:    -844706.3     Losing rounds:   345144
